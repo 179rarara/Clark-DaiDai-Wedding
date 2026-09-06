@@ -1,0 +1,1 @@
+ALTER TABLE `guest_messages` MODIFY COLUMN `place` enum('general','hong-kong','tianjin','california') NOT NULL DEFAULT 'general';

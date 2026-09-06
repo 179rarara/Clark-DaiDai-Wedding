@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1788675066193,
+      "tag": "0000_low_weapon_omega",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1788678493042,
+      "tag": "0001_lyrical_maverick",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1788680395248,
+      "tag": "0002_smiling_lilith",
+      "breakpoints": true
+    }
+  ]
+}
